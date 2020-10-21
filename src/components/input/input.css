@@ -1,0 +1,28 @@
+.outerinputbox {
+    display: flex;
+    border-top: 2px solid wheat;
+  }
+  
+  .inputtext {
+    border: none;
+    border-radius: 0;
+    padding: 3%;
+    width: 80%;
+    font-size: 1.2em;
+  }
+  
+  input:focus, textarea:focus, select:focus{
+    outline: none;
+  }
+  
+  .send {
+    
+    
+    text-decoration: none;
+    background: #29FF44;
+    padding: 20px;
+    display: inline-block;
+    border: none;
+    width: 20%;
+  }
+  
